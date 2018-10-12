@@ -22,6 +22,7 @@ Just set up your router to transmit the new IP address after each successful rec
 ## Device support
 
 1. FRITZ!Box routers (tested on a 7490 model)
+2. Scripts (like via PowerShell)
 
 As the request is based on simple GET and POST requests, it can be assumed that most routers with dynamic dns support should work as well.
 
